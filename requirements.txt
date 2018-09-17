@@ -2,4 +2,3 @@ altair
 pypeline
 pandas
 xlrd
-pdvega
